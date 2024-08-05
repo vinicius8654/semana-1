@@ -1,0 +1,61 @@
+.keith {
+    position: absolute;
+    top:68%;
+    left:-49%;
+    width: 1000%;
+    max-width: 200%;
+    height: 1500.2px;
+    object-fit: contain;
+}
+.titulo1 {
+    color: var(--white);
+    position:relative;
+    z-index: 55;
+    top: 14%;
+    left: 225%;
+    font-size:100px;
+}
+.folha {
+    position: absolute;
+    top:1%;
+    left:33%;
+    width: 35%;
+
+}
+.ilustrada {
+    position: absolute;
+    top:29%;
+    left:21%;
+    width: 60%;
+}
+.rolling {
+position: relative;
+top:21%;
+width: 100%;
+left: 40%;
+
+
+
+
+}
+:root {
+    --green: #00FF00;
+    --white: #ffffff;
+    --black: #000000;
+    --red: #ff0000;
+    --yellow: #ffff00;
+    --otherblue: blue;
+    --indigo: #000020;
+    --jornal: #E1E1DD;
+}
+body{
+    background-color: var(--jornal);
+}
+.Leia{
+    position: relative;
+    top: 13%;
+    left: 170%;
+    width: 110%;
+    font-size: 50px;
+    text-align: center;
+}
