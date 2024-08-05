@@ -1,0 +1,40 @@
+
+.folha {
+    position: absolute;
+    top:1%;
+    left:33%;
+    width: 35%;
+
+}
+.ilustrada {
+    position: absolute;
+    top:29%;
+    left:21%;
+    width: 60%;
+
+}
+:root {
+    --green: #00FF00;
+    --white: #ffffff;
+    --black: #000000;
+    --red: #ff0000;
+    --yellow: #ffff00;
+    --otherblue: blue;
+    --indigo: #000020;
+    --jornal: #E1E1DD;
+}
+body{
+    background-color: var(--jornal);
+}
+.Leia{
+    position: relative;
+    top: 13%;
+    left: 170%;
+    width: 110%;
+    font-size: 50px;
+    text-align: center;
+}
+.linha {
+    border-top: 3px solid black;
+
+  }
